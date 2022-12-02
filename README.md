@@ -1,0 +1,2 @@
+# rickywiki
+college homework
