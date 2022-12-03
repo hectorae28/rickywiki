@@ -2,5 +2,4 @@
 college homework
 
 tarea de la universidad
-
-api:https://rickandmortyapi.com/
+pagina de los personajes de Rick and Morty
